@@ -1,0 +1,10 @@
+Gansstory=[]
+Gansstory.append("The Gansfield plains...the first sight of many a new adventurer.")
+Gansstory.append("And for many, their first encounter with monsters.")
+Gansstory.append("Initiate Battle")
+Gansstory.append(["Giant Rat", "Physical", 20, 20, 10, 5, 10, 10])
+Gansstory.append(["Synchronous Dragonfly", "Physical", 10, 10, 10, 10, 10, 20])
+Gansstory.append(["Weakhund", "Physical", 25, 22, 21, 20, 20, 20])
+Gansstory.append("end")
+Gansstory.append("")
+Gansstory.append("And so the first battle ends. Well done!")
